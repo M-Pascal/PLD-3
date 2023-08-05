@@ -9,6 +9,7 @@ riddles = [
 So it is a dry and arid land
 The most famous ones the Sahara
 Which is covered in a lot of sand", "Arid/Desert")
+    (" ", "")
     # Add more riddles here
 ]
 

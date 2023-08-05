@@ -3,8 +3,12 @@ Carbon footprint
 Global warming
 Biodiversity loss
 Greenhouse gas
+<<<<<<< HEAD
 Renewable energy
 Flooding
 Sustainability
 Sea level rise
 
+=======
+Afforestation
+>>>>>>> 6127ce04b4d449187799c66e0ff1e077c89d5c63
