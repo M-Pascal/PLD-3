@@ -1,5 +1,5 @@
-cli-ma-te
-re-wen-able
+matecli
+rewenable
 greenhouse
-drougth
+drought
 mitigation
