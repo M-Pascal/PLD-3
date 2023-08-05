@@ -26,6 +26,8 @@ def select_riddle():
           "answer" : "glacier"},
         {"question" : "I am a gas that's helpful to plants, but I cannot be bought at a gas station. What am I?",
          "answer" : "carbon dioxide"}
+        {"question" : "I am a mixture of gases. Without me, life's existence would be rare. What am I?
+         "answer" : "atmosphere"}
     ]
     return riddles  
 
