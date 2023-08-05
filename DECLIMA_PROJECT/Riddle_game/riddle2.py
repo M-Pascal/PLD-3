@@ -5,6 +5,10 @@ riddles = [
     ("How many climate change skeptics does it take to change a lightbulb?", "None. It's too early to say if the lightbulb needs changing"),
     ("If you live in an igloo, what's the worst thing about global warming?", "Melting ice"),
     ("If it's zero degrees outside today and it's going to be twice as cold tomorrow, how cold is it going to be?", "Zero degrees. Two times zero is still zero."),
+    ("This type of place has a lack of rain
+So it is a dry and arid land
+The most famous ones the Sahara
+Which is covered in a lot of sand", "Arid/Desert")
     # Add more riddles here
 ]
 
