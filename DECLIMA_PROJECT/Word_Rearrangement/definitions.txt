@@ -1,5 +1,1 @@
-matecli: A term related to climate change 1
-renewabl: A term related to climate change 2
-greenhouse: A term related to climate change 3
-drought: A term related to climate change 4
-mitigation: A term related to climate change 5
+Climate change: refers to long-term shifts in temperatures and weather patterns.
