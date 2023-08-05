@@ -1,1 +1,1 @@
-#This is an empty definition file
+#This is an empty definition file for the DECLIMA project.
