@@ -1,5 +1,5 @@
-ma-te-cli
-re-wen-abl
+cli-ma-te
+re-wen-able
 greuensuoh
 duorthg
 mitgnaioti
