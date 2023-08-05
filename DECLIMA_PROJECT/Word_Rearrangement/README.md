@@ -1,0 +1,1 @@
+This is a word rearrangment where the user has three attempts to rearrange letters to find a word related to climate change, and after a successful guess or a failure, a fun fact about the word will follow. 
