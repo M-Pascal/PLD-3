@@ -12,6 +12,9 @@ def rearrange_letters(word):
     random.shuffle(letters)
     return ''.join(letters)
 
+def is_word_valid(guess, correct_word):
+    return guess.lower() == correct_word.lower()
+
 def game():
     words_to_guess = load_words("words.txt")
     definitions = {}
@@ -28,9 +31,9 @@ def game():
         shuffled_word = rearrange_letters(word_to_guess)
 
         print(f"Rearrange the letters: {shuffled_word}")
-        guess = input("Your guess: ").strip().lower()
+        guess = input("Your guess: ").strip()
 
-        if guess == word_to_guess:
+        if is_word_valid(guess, word_to_guess):
             print("Congratulations! You found the correct word!")
             print(f"The word '{word_to_guess}' means: {definitions[word_to_guess]}")
             return

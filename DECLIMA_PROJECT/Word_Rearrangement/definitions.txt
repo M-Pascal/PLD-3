@@ -1,2 +1,5 @@
-#This is an empty definition file for the DECLIMA project.
-climate:is change of world condition on earth due to the human activities.
+matecli: A term related to climate change 1
+renewabl: A term related to climate change 2
+greenhouse: A term related to climate change 3
+drought: A term related to climate change 4
+mitigation: A term related to climate change 5
