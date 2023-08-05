@@ -32,8 +32,8 @@ def game():
         print("\nYou have 3 attempts to rearrange the letters and find the correct word related to climate change.")
         print(f"Rearrange the letters: {shuffled_word}")
 
-        for _ in range(3):
-            guess = input("Your guess: ").strip()
+        for attempt in range(1, 4):
+            guess = input(f"Attempt {attempt}: ").strip()
 
             if is_word_valid(guess, word_to_guess):
                 print("Congratulations! You found the correct word!")
