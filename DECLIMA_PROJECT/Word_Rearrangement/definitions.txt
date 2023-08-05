@@ -8,6 +8,5 @@ Renewable energy: Refers to energy derived from natural sources that are repleni
 Flooding: Refers to an overflow of water onto normally dry land.
 Sustainability: Refers to the ability to be maintained at a certain rate or level.
 Sea level rise: Refers to an increase in the level of the world's oceans due to the effects of global warming.
-=======
 Afforestation: Is the establishment of a forest or stand of trees (forestation) in an area where there was no recent tree cover.
->>>>>>> 6127ce04b4d449187799c66e0ff1e077c89d5c63
+Earth: Earth refers to our home planet.
