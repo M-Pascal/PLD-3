@@ -9,10 +9,7 @@ riddles = [
 So it is a dry and arid land
 The most famous ones the Sahara
 Which is covered in a lot of sand", "Arid/Desert")
-    ("When its really stormy outside
-This is something you hear
-It happens straight after lightning
-When it is very near ", "Thunder")
+    (" ", "")
     # Add more riddles here
 ]
 
