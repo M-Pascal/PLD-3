@@ -30,7 +30,7 @@ def game():
         shuffled_word = rearrange_letters(word_to_guess)
 
         print("\nYou have 3 attempts to rearrange the letters and find the correct word related to climate change.")
-        print(f"Rearrange the letters: {shuffled_word}")
+        print(f"Rearrange the letters!: {shuffled_word}")
 
         for attempt in range(1, 4):
             guess = input(f"Attempt {attempt}: ").strip()

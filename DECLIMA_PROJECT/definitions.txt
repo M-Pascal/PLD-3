@@ -1,5 +1,5 @@
-Climate change: refers to long-term shifts in temperatures and weather patterns.
-Carbon footprint: this is the amount of carbon dioxide released into the atmosphere.
+Climate change: Refers to long-term shifts in temperatures and weather patterns.
+Carbon footprint: This is the amount of carbon dioxide released into the atmosphere.
 Global warming: Refer to the increase in temperature of the earth's atmosphere that is caused by the increase of particular gases, especially carbon dioxide.
 Biodiversity loss: Refers to the decline or reduction in the variety and abundance of plant and animal species in a specific ecosystem.
 Greenhouse gas: Greenhouse gases are gases in Earth's atmosphere that trap heat.
@@ -9,3 +9,4 @@ Sustainability: Refers to the ability to be maintained at a certain rate or leve
 Sea level rise: Refers to an increase in the level of the world's oceans due to the effects of global warming.
 Afforestation: Is the establishment of a forest or stand of trees (forestation) in an area where there was no recent tree cover.
 Earth: Earth refers to our home planet.
+Ocean Acidification: Rrefers to the increase in the Ocean's acidity due to absorbed carbon dioxide.

@@ -1,7 +1,7 @@
 import random
 
 
-def main():
+def start_game():
     display_instructions()
     riddles = select_riddle()
     play_riddle_game(riddles)
@@ -9,7 +9,7 @@ def main():
 
 #Displays the instructions
 def display_instructions():
-    print("Welcome to Declima riddle game!")
+    print("Welcome to Declima Riddle Game!")
     print("Instructions:")
     print("You'll be presented with riddles related to climate change.")
     print("You have 3 attempts to guess each riddle correctly.")
@@ -25,9 +25,9 @@ def select_riddle():
          {"question" : "I am melting rapidly due to rising global temperatures. What am I?",
           "answer" : "glacier"},
         {"question" : "I am a gas that's helpful to plants, but I cannot be bought at a gas station. What am I?",
-         "answer" : "carbon dioxide"}
-        {"question" : "I am a mixture of gases. Without me, life's existence would be rare. What am I?
-         "answer" : "atmosphere"}
+         "answer" : "carbon dioxide"},
+        {"question" : "I am a mixture of gases. Without me, life's existence would be rare. What am I?",
+         "answer" : " atmosphere! "}
     ]
     return riddles  
 
@@ -62,4 +62,4 @@ def play_riddle_game(riddles):
 
 
 if __name__ == '__main__':
-    main()
+    start_game()
