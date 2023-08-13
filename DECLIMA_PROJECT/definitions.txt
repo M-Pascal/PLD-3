@@ -8,9 +8,5 @@ Flooding: Refers to an overflow of water onto normally dry land.
 Sustainability: Refers to the ability to be maintained at a certain rate or level.
 Sea level rise: Refers to an increase in the level of the world's oceans due to the effects of global warming.
 Afforestation: Is the establishment of a forest or stand of trees (forestation) in an area where there was no recent tree cover.
-<<<<<<< HEAD:DECLIMA_PROJECT/definitions.txt
 Earth: Earth refers to our home planet.
 Ocean Acidification: Rrefers to the increase in the Ocean's acidity due to absorbed carbon dioxide.
-=======
-Earth: "Earth" denotes the celestial body that is our home planet within the solar system. It is a complex and dynamic sphere characterized by a myriad of interconnected processes and procedures, encompassing the lithosphere (solid outer shell), hydrosphere (oceans, seas, lakes, and water bodies), atmosphere (gaseous envelope), and biosphere (all living organisms). Earth possesses a unique blend of conditions that have enabled the evolution and sustenance of life in its diverse forms.
->>>>>>> 0548f5e6f36c496a595fb78e6f36aa6b8c835e07:DECLIMA_PROJECT/Word_Rearrangement/definitions.txt
